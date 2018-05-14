@@ -1,0 +1,15 @@
+{
+  "name": "myNewApi",
+  "version": "0.0.1",
+  "description": "Wicket awesome test API",
+  "author": "James Lee <jamesmlee0316@gmail.com>",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "zip": "zip -r ../myNewApi.zip *"
+  }
+}
